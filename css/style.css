@@ -7,15 +7,19 @@ body {
 }
 
 header {
-	text-align: center;
-	color:white;
-	background-color: #003652;
+    position: relative;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+    background-color: #003652;
 }
 .container {
-	width: 1000px;
-	margin: auto;
-	padding-top: 20px;
-	padding-bottom: 20px;
+    width: 40%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
 }
 
 .logo img {
